@@ -1,0 +1,148 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  margin: 0px;
+  width: 20%;
+  margin: 0px auto 0px auto;
+  font-family: "Sacramento", cursive;
+  font-size: 6rem;
+  display: inline;
+  color: #66bfbf;
+  line-height: 2;
+}
+.top {
+  background-color: #eaf6f6;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 400px;
+  left: 20%;
+}
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+h3 {
+  color: #11999e;
+}
+a {
+  color: #11999e;
+}
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: auto;
+  margin: 100px auto;
+  line-height: 1.5;
+}
+.image-computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.image-fire {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+/* .computer-text {
+}
+.web-text {
+} */
+.personal-info {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 75px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 20%;
+  border-color: #eaf6f6;
+  /* border-radius: 20px; */
+  border-top-width: 10px;
+  margin-bottom: 20px;
+}
+.get-in-touch {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.BUTTON_TSE {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  height: 13px;
+  line-height: 13px;
+  color: #ffffff;
+  font-family: Arial;
+  width: 159px;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 14px;
+  background-color: #66bfbf;
+  border: solid #ffffff 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_TSE:hover {
+  background: #86e8b0;
+  border: solid #ffffff 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.contact-me {
+  padding-bottom: 50px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  height: 100px;
+}
+.trademark {
+  color: #eaf6f6;
+  font-size: 10px;
+  padding-top: 20px;
+}
+a {
+  color: #11999e;
+  text-decoration: none;
+  display: inline;
+  font-size: small;
+}
+.links {
+  padding-top: 20px;
+  word-spacing: 30px;
+}
